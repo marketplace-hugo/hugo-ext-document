@@ -1,4 +1,4 @@
-# Information / Информация
+# Information
 
 Тип контента **Документ**.
 
@@ -10,13 +10,13 @@
   - `position-y` - позиция обложки по оси Y.
 - `date` - дата публикации документа.
 
-## Install / Установка
+## Install
 
 ```
 git submodule add https://gitlab.com/marketplace-hugo/hugo-ext-document.git archetypes/document
 ```
 
-## Update / Обновление
+## Update
 
 ```
 git submodule update --remote
